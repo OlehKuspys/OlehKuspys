@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.fineartamerica.com/images-medium-large-5/16-new-york-skyline-michael-tompsett.jpg" width="1000" height="500"/>
+  <img src="https://i.etsystatic.com/21635101/r/il/eafb63/2268624723/il_1588xN.2268624723_3hbz.jpg" width="1000" height="450"/>
 </div>
 
 ## Hi there 👋 I'm Oleh
